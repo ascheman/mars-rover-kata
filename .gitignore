@@ -42,3 +42,7 @@
 # other
 *.iws
 
+# Gradle
+.gradle
+build
+/bin
